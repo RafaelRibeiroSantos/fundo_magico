@@ -8,9 +8,13 @@
 
 ## 🎨 Sobre
 
-Uma ferramenta intuitiva que **transforma suas ideias em backgrounds CSS espetaculares**. Simplesmente descreva o estilo que deseja e receba o código HTML e CSS pronto para usar em seus projetos.
+**Fundo Mágico** é uma ferramenta web inovadora que **transforma suas ideias em backgrounds CSS espetaculares**. Simplesmente descreva o estilo que deseja e receba o código HTML e CSS pronto para usar em seus projetos.
 
-Perfeito para designers, desenvolvedores web e criadores de conteúdo que buscam criar backgrounds personalizados rapidamente.
+Perfeito para designers, desenvolvedores web e criadores de conteúdo que buscam criar backgrounds personalizados rapidamente, sem precisar estudar complexas propriedades CSS.
+
+### O Projeto
+
+Este projeto é um exemplo prático de como construir uma **aplicação frontend moderna e responsiva** usando as tecnologias fundamentais da web. A ideia é simplificar o processo de criação de backgrounds CSS, permitindo que usuários gerem código de qualidade através de descrições em linguagem natural.
 
 ## ✨ Funcionalidades
 
@@ -20,10 +24,31 @@ Perfeito para designers, desenvolvedores web e criadores de conteúdo que buscam
 - 🌈 **Múltiplas variações** - Gradientes, sólidos, efeitos visuais
 - ⚡ **Lightweight** - Sem dependências pesadas
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e Tecnologias Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Estilo:** CSS moderno com Flexbox
+### **HTML5** 🏗️
+- Estrutura semântica do projeto
+- Forma a base da interface com elementos bem organizados
+- Facilita acessibilidade e SEO
+
+### **CSS3** 🎨
+- Estilização moderna e responsiva
+- Utiliza **Flexbox** para layouts flexíveis
+- Propriedades avançadas como `gradients`, `transitions` e `animations`
+- Design limpo e intuitivo que adapta em qualquer dispositivo
+
+### **JavaScript** ⚙️
+- Lógica dinâmica da aplicação
+- Manipulação do **DOM** em tempo real
+- Captura de eventos do usuário e interatividade
+- Geração automática de código CSS baseada em descrições
+
+### Stack Completo
+```
+Frontend: HTML5 + CSS3 + JavaScript (Vanilla)
+Arquitetura: Single Page Application (SPA)
+Styling: CSS moderno com Flexbox
+```
 
 ## 📦 Como Usar
 
